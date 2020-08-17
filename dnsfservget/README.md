@@ -1,4 +1,4 @@
-DNS Fileserver Getter Library
+DNS Fileserver Getter Library  [![GoDoc](https://godoc.org/github.com/magisterquis/dnsfserv/dnsfservget?status.svg)](https://godoc.org/github.com/magisterquis/dnsfserv/dnsfservget)
 =============================
 This is a small library to wrap Go's
 [`net.Lookup*`](https://golang.org/pkg/net/) functions to get a file from
