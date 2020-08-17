@@ -7,9 +7,9 @@ don't work.  This provides one more option to get a file on target, DNS.
 
 Features:
 - Serves files over...
-        - A records
-        - AAAA records
-        - TXT records
+  - A records
+  - AAAA records
+  - TXT records
 - Easy to add other record types
 - Doesn't try to solve cache invalidation
 - Easy to set up and use
